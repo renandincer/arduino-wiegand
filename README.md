@@ -1,6 +1,8 @@
 # arduino-wiegand
 A very simple Arduino Library to read data from HID RFID readers.
 
+![](http://cdn.barcodesinc.com/images/models/lg/HID/proxpro-5355.jpg)
+
 ## Usage
     #include <ArduinoWiegand.h>
     ArduinoWiegand a;
