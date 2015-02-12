@@ -19,4 +19,4 @@ A very simple Arduino Library to read data from HID RFID readers.
 This prints the facility code and the card code.
 
 ## Todo
-[ ] Tag Checking (Defining known tags and checking for them)
+- [ ] Tag Checking (Defining known tags and checking for them)
